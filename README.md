@@ -32,4 +32,4 @@ driftcheck compare old_sample.csv new_sample.csv --columns age,income,category -
 
 ## Sample Output
 
-*(Screenshot placeholder - A clean HTML report with side-by-side distribution plots and a severity summary table)*
+![Sample Drift Report](docs/sample_report.png)
